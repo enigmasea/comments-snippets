@@ -1,2 +1,2 @@
-# comments-snippets
+# snippets
 Comments repository for snippets website
